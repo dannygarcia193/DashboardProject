@@ -1,6 +1,6 @@
 # DASHBOARD AUTOMATION PROJECT
 
---------------------------------------DESCRIPTION--------------------------------------------------------
+# --------------------------------DESCRIPTION--------------------------------------------------------
 This is submission to Practicum by Yandex's Dashboard Automation Project.
 
 Based on technical requirements as provided by the Practicum, the
