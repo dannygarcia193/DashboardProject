@@ -11,6 +11,9 @@ dashboard serves to answer three common questions relating to YouTube trending v
 
 Hypothetically speaking, the insights from the dashboard will help marketing managers make data-driven decisions regarding the
 types of content demanding marketing attention.
+
+## - [Link](https://public.tableau.com/views/DashboardProject_15969044432290/TrendingYoutubeVidz?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) to **dashboard** on Tableau Public's server
+
 ## CONTENTS
 - **requirements.txt**:
 Lists the python libraries and their respective version that are required to run the project
@@ -25,8 +28,6 @@ trending_date (date and time), category_title (video category),videos_count (num
 - **DashboardProject.pptx**:
 Presentation on analyses and recommendation for content that deserves marketing attention based
 off trending videos on Youtube.
-
-- [Link](https://public.tableau.com/views/DashboardProject_15969044432290/TrendingYoutubeVidz?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) to **dashboard** on Tableau Public's server
 
 
 ## HOW TO USE
